@@ -18,7 +18,7 @@ conformer_ctc
 
 ## Conformer_ctc with NeMo
 
-NeMo 기반 Conformer_ctc를 사용하여 한국어 음성인식을 진행하였습니다.
+NVIDIA NeMo Toolkit 기반 Conformer_ctc를 사용하여 한국어 음성인식 학습을 진행하였습니다.
 
 ## Requirements
 
@@ -181,7 +181,7 @@ pip install -r requirements.txt
 
 ## Result
 
-### 평가지표 : CER(Character Error Rate)(e.g. two classes)
+### 평가지표 : CER(Character Error Rate)
 
 ![In App](./CER.png)
 - Substitution (S): 추론된 텍스트 중 정답 텍스트와 비교해 잘못 대체된 음절 수
