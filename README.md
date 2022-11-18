@@ -224,5 +224,7 @@ pip install -r requirements.txt
 
 ## Reference
 
-- [NeMo](https://github.com/NVIDIA/NeMo)
+- [NVIDIA NeMo Toolkit](https://github.com/NVIDIA/NeMo)
+- [Conformer: Convolution-augmented Transformer for Speech Recognition](https://arxiv.org/abs/2005.08100)
+- [Google Sentencepiece Tokenizer](https://github.com/google/sentencepiece)
 - [AIHub](https://aihub.or.kr)
