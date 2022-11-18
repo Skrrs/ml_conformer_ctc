@@ -197,6 +197,7 @@ pip install -r requirements.txt
 |  model  |   CER(%)   | data |
 | :---: | :---: | :---: |
 | conformer_ctc | 8.3 | AIHub 자유대화 음성(일반남여) |
+| KoSpeech | 10.31 | AIHub KsponSpeech |
 | conformer_ctc | 19.2 | AIHub 인공지능 학습을 위한 외국인 한국어 발화 음성(한국일반-발화능력 상) |
 | conformer_ctc | 23 | AIHub 인공지능 학습을 위한 외국인 한국어 발화 음성(한국일반-발화능력 중) |
 | conformer_ctc | 25.7 | AIHub 인공지능 학습을 위한 외국인 한국어 발화 음성(한국일반-발화능력 하) |
@@ -226,5 +227,6 @@ pip install -r requirements.txt
 
 - [NVIDIA NeMo Toolkit](https://github.com/NVIDIA/NeMo)
 - [Conformer: Convolution-augmented Transformer for Speech Recognition](https://arxiv.org/abs/2005.08100)
+- [KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition](https://arxiv.org/ftp/arxiv/papers/2009/2009.03092.pdf)
 - [Google Sentencepiece Tokenizer](https://github.com/google/sentencepiece)
 - [AIHub](https://aihub.or.kr)
