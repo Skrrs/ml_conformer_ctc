@@ -55,6 +55,7 @@ pip install -r requirements.txt
 ### Source
 
 1. [AIHub 자유대화 음성(일반남여)](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=109)
+2. [AIHub 인공지능 학습을 위한 외국인 한국어 발화 음성 데이터](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=505)
 
 ### Dataset 구성
 
