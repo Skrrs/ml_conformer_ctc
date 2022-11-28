@@ -176,15 +176,15 @@ pip install -r requirements.txt
 ## Result
 
 ### 학습환경
-![GPU](/ml_conformer_ctc/images/ctc학습_gpu.png)
+![GPU](./images/ctc학습_gpu.png)
 
 ### Training
 *기존 WER을 기준으로 학습을 진행했으나 이후 CER을 기준으로 다시 학습을 진행함 아래 이미지는 CER기준으로 학습 시 진행과정을 모니터링 하기 위한 그래프
-![GRAPH](/ml_conformer_ctc/images/ctc학습_graph.png)
+![GRAPH](./images/ctc학습_graph.png)
 
 ### 평가지표 : CER(Character Error Rate)
 
-![CER](/ml_conformer_ctc/images/CER.png)
+![CER](./images/CER.png)
 - Substitution (S): 추론된 텍스트 중 정답 텍스트와 비교해 잘못 대체된 음절 수
 
 - Deletion (D): 추론된 텍스트 중 정답 텍스트와 비교해 잘못 삭제된 음절 수
