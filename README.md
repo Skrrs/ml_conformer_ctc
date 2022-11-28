@@ -136,7 +136,7 @@ pip install -r requirements.txt
     | [원천]3.스튜디오_2 | 0 | 58210 | 93:52:29 | 11GB |
     | 계 | 489 | 2,272,473 | 3213:12:51 | 356GB |
 
-### Validation set (사실상 Test set)
+### Test set
 
 - 전체 데이터
 
@@ -167,7 +167,7 @@ pip install -r requirements.txt
     | --- | --- |
     | Duration(hh:mm:ss) | 2514:18:16 |
 
-- Valid set
+- Test set
 
     | # of wav files  | 200,761 |
     | --- | --- |
