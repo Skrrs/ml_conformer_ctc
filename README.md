@@ -221,7 +221,7 @@ pip install -r requirements.txt
 - 추후 업데이트
 
 ## Competition
-- [2022 한국어 AI 경진대회](https://competition.aihub.or.kr/hackathon/scheduleDetail/10000)
+- [2022 한국어 AI 경진대회](https://www.korea.kr/news/pressReleaseView.do?newsId=156529770)
 - 한국어 음성인식 성능향상 Track 01 참가 (팀명: 서강프렌즈)
 - [데이터 품질리뷰상(특별상) 수상](https://www.sogang.ac.kr/gopage/goboard2.jsp?bbsConfigFK=58&pkid=535170)
 
